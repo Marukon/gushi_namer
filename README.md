@@ -6,8 +6,17 @@
 
 ## Demo
 
+- [在线体验：古诗文起名](https://gushi-namer.xiaosang.cc/)
 - [https://holynova.github.io/gushi_namer/](https://holynova.github.io/gushi_namer/)
 - [http://xiaosang.net/gushi_namer/](http://xiaosang.net/gushi_namer/)
+
+### Demo 视频 · 诗里有你
+
+让“泠、寒”从诗句里走出来，成为「林泠寒」。40 秒演示选典籍、输入姓氏、查看出处、收藏与分享，配以古琴实录。
+
+https://github.com/user-attachments/assets/2e13bbae-60b0-4ce5-a060-2801a849ae01
+
+[▶ 查看或下载视频（MP4 · 1080p · 40 秒）](assets/demo-video.mp4)
 
 ## 截图预览
 
@@ -64,3 +73,12 @@ pnpm build
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=holynova/gushi_namer&type=Date)](https://www.star-history.com/#holynova/gushi_namer&Date)
+
+## Demo 分享卡片
+
+<a href="https://gushi-namer.xiaosang.cc/">
+  <img src="assets/demo-share-card.png" alt="古诗文起名 Demo 分享卡片：包含项目介绍与二维码" width="360">
+</a>
+
+从古诗文中取字，为每个名字保留原文与出处。扫码或点击卡片，试试你的名字：<https://gushi-namer.xiaosang.cc/>
+
